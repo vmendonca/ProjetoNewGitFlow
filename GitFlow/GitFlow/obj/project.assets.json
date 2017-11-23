@@ -9775,10 +9775,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanderlei\\Desktop\\ProjetosGit\\ProjetoEstudo2\\GitFlow\\GitFlow\\GitFlow.csproj",
+      "projectUniqueName": "C:\\Users\\vanderlei\\Desktop\\ProjetosGit\\ProjetoEstudo2\\ProjetoNewGitFlow\\GitFlow\\GitFlow\\GitFlow.csproj",
       "projectName": "GitFlow",
-      "projectPath": "C:\\Users\\vanderlei\\Desktop\\ProjetosGit\\ProjetoEstudo2\\GitFlow\\GitFlow\\GitFlow.csproj",
-      "outputPath": "C:\\Users\\vanderlei\\Desktop\\ProjetosGit\\ProjetoEstudo2\\GitFlow\\GitFlow\\obj\\",
+      "projectPath": "C:\\Users\\vanderlei\\Desktop\\ProjetosGit\\ProjetoEstudo2\\ProjetoNewGitFlow\\GitFlow\\GitFlow\\GitFlow.csproj",
+      "outputPath": "C:\\Users\\vanderlei\\Desktop\\ProjetosGit\\ProjetoEstudo2\\ProjetoNewGitFlow\\GitFlow\\GitFlow\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
