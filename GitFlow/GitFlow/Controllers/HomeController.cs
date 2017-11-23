@@ -31,5 +31,12 @@ namespace GitFlow.Controllers
         {
             return View();
         }
+
+        public IActionResult Senha()
+        {
+            return View();
+        }
+
+
     }
 }
