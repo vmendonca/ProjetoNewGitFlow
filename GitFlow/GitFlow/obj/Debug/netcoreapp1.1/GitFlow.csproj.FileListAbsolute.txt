@@ -1,0 +1,9 @@
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\bin\Debug\netcoreapp1.1\GitFlow.deps.json
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\bin\Debug\netcoreapp1.1\GitFlow.runtimeconfig.json
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\bin\Debug\netcoreapp1.1\GitFlow.runtimeconfig.dev.json
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\bin\Debug\netcoreapp1.1\GitFlow.dll
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\bin\Debug\netcoreapp1.1\GitFlow.pdb
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\obj\Debug\netcoreapp1.1\GitFlow.csprojResolveAssemblyReference.cache
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\obj\Debug\netcoreapp1.1\GitFlow.AssemblyInfo.cs
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\obj\Debug\netcoreapp1.1\GitFlow.dll
+C:\Users\vanderlei\Desktop\ProjetosGit\ProjetoEstudo2\ProjetoNewGitFlow\GitFlow\GitFlow\obj\Debug\netcoreapp1.1\GitFlow.pdb
